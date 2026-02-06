@@ -95,8 +95,8 @@ Kontribusi pengembangan terbagi menjadi:
 ## 📁 Struktur Project
 
 - `An-KPRI-Bina-Sejahtera/` — Aplikasi Android
-- `FE BE/Be-KPRI-Bina-Sejahtera/` — Backend API (Laravel)
-- `FE BE/Fe-KPRI-Bina-Sejahtera/` — Web Frontend/Dashboard
+- `Be-KPRI-Bina-Sejahtera/` — Backend API (Laravel)
+- `Fe-KPRI-Bina-Sejahtera/` — Web Frontend/Dashboard
 
 ---
 
