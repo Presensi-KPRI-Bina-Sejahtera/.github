@@ -85,10 +85,10 @@ Sistem ini dapat dijalankan dan dikembangkan dengan kolaborasi multiperan:
 
 Kontribusi pengembangan terbagi menjadi:
 
-- **Backend Developer (API & Database) & Sistem Analis** — Nama: Muhammad Fauzan Putra Trisuladana (+62 857-1221-6860)
-- **Mobile Developer (Android)** — Nama: Tb. Muhammad Endra Zhafir Al Ghifari (+62 889-5089-410)
-- **Frontend Developer (Web Admin)** — Nama: Abdullah Afif Habiburrohman (+62 851-5991-7205)
-- **UI/UX Designer** — Nama: Prihastomo Budi Satrio (+62 821-3628-4039)
+- **Backend Developer (API & Database) & Sistem Analis** — Nama: Muhammad Fauzan Putra Trisuladana ([+62 857-1221-6860](https://wa.me/6285712216860))
+- **Mobile Developer (Android)** — Nama: Tb. Muhammad Endra Zhafir Al Ghifari ([+62 889-5089-410](https://wa.me/628895089410))
+- **Frontend Developer (Web Admin)** — Nama: Abdullah Afif Habiburrohman ([+62 851-5991-7205](https://wa.me/6285159917205))
+- **UI/UX Designer** — Nama: Prihastomo Budi Satrio ([+62 821-3628-4039](https://wa.me/6282136284039))
 
 ---
 
